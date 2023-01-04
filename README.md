@@ -1,2 +1,2 @@
 # akuntansi
-basis ci versi 4
+basis ci versi 3
